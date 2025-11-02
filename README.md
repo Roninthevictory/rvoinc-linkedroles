@@ -12,9 +12,10 @@ _ _
 # 🔒 **RVO INC — Secure Verification Gateway**  
 ### ⚙️ *Confidential Automation Endpoint • Limited Public Visibility*
 
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/LICENSE-RVO%20INC%20PRIVATE-critical?style=for-the-badge)
-![Jurisdiction](https://img.shields.io/badge/JURISDICTION-ILLINOIS%2C%20USA-blue?style=for-the-badge)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge)](./LICENSE.md)
+[![License](https://img.shields.io/badge/LICENSE-RVO%20INC%20PRIVATE-critical?style=for-the-badge)](./LICENSE.md)
+[![Jurisdiction](https://img.shields.io/badge/JURISDICTION-ILLINOIS%2C%20USA-blue?style=for-the-badge)](./LICENSE.md)
+
 
 </div>
 
