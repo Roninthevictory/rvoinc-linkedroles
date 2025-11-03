@@ -1,8 +1,8 @@
 // RVO INC Secure Codespace Loader
 // Dynamically loads full backend from the encrypted Codespaces Secret.
 
-import fs from "fs";
-import { execSync } from "child_process";
+const fs = require("fs");
+const { execSync } = require("child_process");
 
 const secret = process.env.RVO_SECURE_CODE;
 if (!secret) {
