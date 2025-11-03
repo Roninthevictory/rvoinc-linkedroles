@@ -1,1 +1,25 @@
+body {
+  margin: 0;
+  background-color: #000;
+  color: #e50914;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-top: 15%;
+}
+
+.verify-btn {
+  background-color: #e50914;
+  color: white;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.verify-btn:hover {
+  background-color: #ff1f3d;
+}
 
